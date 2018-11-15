@@ -1,5 +1,5 @@
 
-public class Aufgab2_1810653188;
+public class Aufgab2_1810653188
 {
     public static void main (String[] args)
         {
@@ -9,9 +9,9 @@ public class Aufgab2_1810653188;
         boolean esIst12Uhr=false; //false, true
         long langezahl=33452; //−9,223,372,036,854,775,808 bis +9,223,372,036,854,775,807
         char zeichen='%'; //65.536 unterschiedliche Zeichen
-        byte zahl=20; //-128 bis 127
-        short negativeZahl=-303242; //-32.768 bis 32.767
-        float zahl=23; //-3.4*10^38 bis +3,4*10^38
+        byte nummer=20; //-128 bis 127
+        short negativeZahl= -30242; //-32.768 bis 32.767
+        float ziffer=23; //-3.4*10^38 bis +3,4*10^38
 
 
         Integer wert=218; //Konstanten haben einen fixen Wert Variablen hingegen können verändert werden.
